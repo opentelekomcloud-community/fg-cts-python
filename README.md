@@ -1,6 +1,10 @@
 # fg-cts-python
 
-Samples on how to use FunctionGraph and Cloud Trace Service
+Samples on how to use FunctionGraph and Cloud Trace Service.
+
+## Documentation
+
+For documentation see: [fg-cts-python](https://opentelekomcloud-community.github.io/fg-cts-python/)
 
 > Warranty Disclaimer
 > -------------------
